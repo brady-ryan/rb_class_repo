@@ -1,1 +1,1 @@
-# rb_class_repo
+Testing how to make GitHub repositories
